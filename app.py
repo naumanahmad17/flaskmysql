@@ -9,7 +9,7 @@ app.config['MYSQL_HOST'] = 'localhost'
 app.config['MYSQL_USER'] = 'root'
 app.config['MYSQL_PASSWORD'] = 'admin'
 app.config['MYSQL_DB'] = 'flask' 
-app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://root:admin@localhost/flask' 
+app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://sql12363465:9FIBXkEcCi@sql12.freemysqlhosting.net:3306/sql12363465' 
 
 db = SQLAlchemy(app)
 
